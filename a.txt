@@ -1,4 +1,8 @@
 gfcgfchg
+<<<<<<< HEAD
 hgcgh
 hello 
 world
+=======
+hgcgh
+>>>>>>> parent of 085314f... Update a.txt
